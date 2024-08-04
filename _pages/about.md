@@ -4,26 +4,13 @@ title: Про Автора
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Обожнюю відновлювати, дороблювати та розширювати можливості старих комп'ютерів, які мене затягнули у вир технологій.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Загалом, початком моєї кар'єри в ІТ (або пунктом неповернення) можна вважати купівлю комп'ютера "Байт", клона ZX Spectrum. Десь в 93-94му році батьки мені його купили. Була ціла епопея з підключенням його до телевізора. На той момент, мені можна сказати - повезло, батькам вдалося дістати другий телевізор, причому кольоровий... але без дециметрового модуля, тому дивитися на ньому ніхто нічого не міг. Ну і він діствся мені у повне розпорядження :)
 
-## Features
+Оскільки ігри на цій платформі були досить примітивні, я відкрив для себе набагато більш цікаве заняття - програмування.
+Спочатку, це був бейсік, пізніше, коли вдалося знайти книжки по ассемблеру і машинних кодах, писав програми на ассемблері. Цікавий момент був у тому, що у мене не було програми ассемблера, тому приходилося писати в зошиті програму, а вже потім переводити в машинні коди і вводити програму через бейсік в память комп'ютера... От як раз тоді, я і дізнався про двійкову і шістнадцятирічну системи числення. Це вже в старших класах, на уроках інформатики, нас вчили цим азам. А мені тоді приходилося все винаходити самому, оскільки доступу до літератури і документації не було. Якісь крихти знаходилися в журналах по типу Радіо або Радіоаматор, але якихось клубів чи спільнот тоді в невеликих мітсах просто не існувало. На дворі була середина 90х...
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Так чи інакше, в кінці 2019 накрила ностальгія... і понеслося. За досить розумні кошти купив Олімпік-С, відновив, підключив до монітора. Погрався з бейсіком, але цього виявилося за мало, тому почав вивчати схемотехніку і архітектуру zx spectrum сумісних машин, щоб якимось чином переносити данні, програми і файли з спектрума на сучасні комп'ютери.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+І це тільки початок історії. Далі буде...
